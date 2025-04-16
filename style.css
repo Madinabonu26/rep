@@ -19,6 +19,7 @@
     padding: 40px;
     border-radius: 16px;
     margin-bottom: 50px;
+    
 
   }
   
@@ -33,12 +34,12 @@
   }
   
   .btn {
-    display: inline-block;
+    display: flex;
     background-color: #458ff6;
     color: #fff;
     padding: 12px 24px;
     border-radius: 30px;
-    text-decoration: none;
+    
     transition: all 0.3s ease;
   }
   
